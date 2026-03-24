@@ -9,6 +9,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | Episode | Topic | Code |
 |---------|-------|------|
 | 1 | Hello SQLite | [episode01/intro.sql](episode01/intro.sql) |
+| 2 | Inserting Data | [episode02/inserting.sql](episode02/inserting.sql) |
 
 ## How to Run
 
