@@ -13,6 +13,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | 3 | Selecting Columns | [episode03/selecting.sql](episode03/selecting.sql) |
 | 4 | Data Types | [episode04/datatypes.sql](episode04/datatypes.sql) |
 | 5 | WHERE Clause | [episode05/where.sql](episode05/where.sql) |
+| 6 | AND, OR, NOT | [episode06/and_or_not.sql](episode06/and_or_not.sql) |
 
 ## How to Run
 
