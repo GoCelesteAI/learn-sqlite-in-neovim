@@ -14,6 +14,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | 4 | Data Types | [episode04/datatypes.sql](episode04/datatypes.sql) |
 | 5 | WHERE Clause | [episode05/where.sql](episode05/where.sql) |
 | 6 | AND, OR, NOT | [episode06/and_or_not.sql](episode06/and_or_not.sql) |
+| 7 | ORDER BY | [episode07/orderby.sql](episode07/orderby.sql) |
 
 ## How to Run
 
