@@ -12,6 +12,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | 2 | Inserting Data | [episode02/inserting.sql](episode02/inserting.sql) |
 | 3 | Selecting Columns | [episode03/selecting.sql](episode03/selecting.sql) |
 | 4 | Data Types | [episode04/datatypes.sql](episode04/datatypes.sql) |
+| 5 | WHERE Clause | [episode05/where.sql](episode05/where.sql) |
 
 ## How to Run
 
