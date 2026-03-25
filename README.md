@@ -16,6 +16,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | 6 | AND, OR, NOT | [episode06/and_or_not.sql](episode06/and_or_not.sql) |
 | 7 | ORDER BY | [episode07/orderby.sql](episode07/orderby.sql) |
 | 8 | LIMIT & OFFSET | [episode08/limit_offset.sql](episode08/limit_offset.sql) |
+| 9 | LIKE & Patterns | [episode09/like.sql](episode09/like.sql) |
 
 ## How to Run
 
