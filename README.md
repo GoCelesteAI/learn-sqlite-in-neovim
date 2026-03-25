@@ -18,6 +18,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | 8 | LIMIT & OFFSET | [episode08/limit_offset.sql](episode08/limit_offset.sql) |
 | 9 | LIKE & Patterns | [episode09/like.sql](episode09/like.sql) |
 | 10 | UPDATE | [episode10/update.sql](episode10/update.sql) |
+| 11 | DELETE | [episode11/delete.sql](episode11/delete.sql) |
 
 ## How to Run
 
