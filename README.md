@@ -17,6 +17,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | 7 | ORDER BY | [episode07/orderby.sql](episode07/orderby.sql) |
 | 8 | LIMIT & OFFSET | [episode08/limit_offset.sql](episode08/limit_offset.sql) |
 | 9 | LIKE & Patterns | [episode09/like.sql](episode09/like.sql) |
+| 10 | UPDATE | [episode10/update.sql](episode10/update.sql) |
 
 ## How to Run
 
