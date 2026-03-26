@@ -19,6 +19,7 @@ Student code for the **Learn SQLite in Neovim** YouTube series by [CelesteAI](ht
 | 9 | LIKE & Patterns | [episode09/like.sql](episode09/like.sql) |
 | 10 | UPDATE | [episode10/update.sql](episode10/update.sql) |
 | 11 | DELETE | [episode11/delete.sql](episode11/delete.sql) |
+| 12 | ALTER TABLE | [episode12/alter_table.sql](episode12/alter_table.sql) |
 
 ## How to Run
 
